@@ -3,50 +3,32 @@ Overview
 
 This project analyzes COVID-19 data to uncover infection trends, mortality rates, and recovery patterns across different regions and time periods. Using data visualization and statistical analysis, it provides key insights into the global impact of the pandemic.
 
-Key Features
+Key Features:
+1. Data Collection: Retrieves up-to-date COVID-19 data from reliable sources.
+2. Data Preprocessing: Cleans and structures the dataset for analysis.
+3. Exploratory Data Analysis (EDA): Visualizes case trends, deaths, and recoveries.
+4. Statistical Insights: Examines correlations and patterns in infection rates.
+5. Geographical Comparisons: Assesses COVID-19’s impact across countries.
 
-Data Collection: Retrieves up-to-date COVID-19 data from reliable sources.
+Technologies Used:
+1. Python: Pandas, NumPy for data handling.
+2. Matplotlib, Seaborn: Data visualization.
+3. Jupyter Notebook: Interactive analysis.
 
-Data Preprocessing: Cleans and structures the dataset for analysis.
+How to Use:
+1. Clone the repository:
+2. Install dependencies:
+3. Open the Jupyter Notebook and explore the analysis.
 
-Exploratory Data Analysis (EDA): Visualizes case trends, deaths, and recoveries.
-
-Statistical Insights: Examines correlations and patterns in infection rates.
-
-Geographical Comparisons: Assesses COVID-19’s impact across countries.
-
-Technologies Used
-
-Python: Pandas, NumPy for data handling.
-
-Matplotlib, Seaborn: Data visualization.
-
-Jupyter Notebook: Interactive analysis.
-
-How to Use
-
-Clone the repository:
-
-Install dependencies:
-
-Open the Jupyter Notebook and explore the analysis.
-
-Data Source
-
+Data Source:
 The dataset is sourced from Our World in Data, ensuring reliable and structured information.
 
-Key Insights
+Key Insights:
+1. Identified peak infection periods.
+2. Analyzed mortality trends across different countries.
+3. Explored correlations between COVID-19 cases and external factors.
 
-Identified peak infection periods.
-
-Analyzed mortality trends across different countries.
-
-Explored correlations between COVID-19 cases and external factors.
-
-Future Enhancements
-
-Implement predictive modeling for forecasting trends.
-
-Improve visualizations with interactive dashboards.
-
-Integrate real-time data updates.
+Future Enhancements:
+1. Implement predictive modeling for forecasting trends.
+2. Improve visualizations with interactive dashboards.
+3. Integrate real-time data updates.
